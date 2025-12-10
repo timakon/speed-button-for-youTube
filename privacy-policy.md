@@ -8,4 +8,4 @@ No browsing history, video content, account information, or any other personal d
 
 The extension does not use analytics, ads, tracking pixels, or third-party scripts.
 
-If you have any questions about this privacy policy, you can contact the developer at: **your@email**.
+If you have any questions about this privacy policy, you can contact the developer at: **skukler19@gmail.com**.
